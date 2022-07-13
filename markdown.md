@@ -54,9 +54,7 @@ else
 # 説明
 ## 概要
 $2^n$  
-$$
-\sqrt{25}
-$$
+$$\sqrt{25}$$
 ## 特記事項
 ![画像](https://www.azciel.co.jp/wp-content/uploads/2018/08/icon_git.png)
 事故には気を付けること
